@@ -1,0 +1,6 @@
+{
+  "name": "EMTSD Construction",
+  "description": "Site vitrine officiel de l'entreprise EMTSD Construction à Diamniadio, Sénégal. Bâtiment, travaux publics, génie civil, études et aménagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
